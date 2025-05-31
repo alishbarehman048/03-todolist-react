@@ -10,4 +10,10 @@ DESCRIPTION: This app allows
 
 Technologies used- React.js + Tailwind CSS
 
-github link:
+Testing Guidance:
+1- Clone the repo
+2- Install Dependencies
+3-Run the app
+4- Verify by- adding new task, marking them complete, editing the task, updating the task, by testing the sorting order of task from latest to oldest and by filtering the current task 
+
+github link:https://alishbarehman048.github.io/03-todolist-react/
